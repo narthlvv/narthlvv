@@ -1,4 +1,4 @@
-<h1 align="left"> I am Nart From :  Kurdstan | Amuda </h1>
+<h1 align="left"> I am Nart-From : Kurdistan | Amuda </h1>
 
 ###
 
@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=narthlvv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narthlvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp5NTJ3NXQwYWt4a2k0eHZsN2ZkY2xkbzB2ZXB4MzBwYmEzcGF1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif"  />
 
 ###
 
@@ -28,15 +24,26 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_hlvv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="nart.inquiry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/narthlvv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+  <a href="https://t.me/narthlvv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<img align="left" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFzaXlpNXluaXRwcGtsZTNqdHBidHRnNHdxamVwN3g1aGV4OGNpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif"  />
 
-<img src="https://raw.githubusercontent.com/narthlvv/narthlvv/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RxdjNvMGhoZWUya293OHhjcXI2cmh6bDdpcmZlMzY2MmtkY2FjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c16VBx4QeNq9i/giphy.gif"  />
+</div>
 
 ###
